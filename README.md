@@ -72,7 +72,7 @@ Contributions to this project are welcome. You can contribute by improving data 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](URL_TO_LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/doguilmak/SunspotRNNForecast/blob/main/LICENSE) file for details.
 
 <br>
 
