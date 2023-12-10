@@ -1,12 +1,10 @@
 <h1 align="center">Sunspot Forecasting with Recurrent Neural Networks (RNNs)</h1>
 
-
-<p  align="center">
-<img src="https://i.gifer.com/36bQ.gif" height=450 width=2000 alt="Sakilar">
+<p align="center">
+    <img src="https://images.csmonitor.com/csm/2013/02/sunspot.jpg?alias=standard_900x600" height=450 width=2000 alt="Sakilar">
 </p>
-  
 
-<small>Picture Source: <a  href="https://gifer.com/en/36bQ">Saktilar</a></small>
+<small>Picture Source: <a href="https://www.csmonitor.com/Science/2013/0221/Sunspots-Huge-and-growing-fast-says-NASA">csmonitor</a></small>
 
 <br>
 
