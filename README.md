@@ -25,7 +25,7 @@ In recent years, advancements in space technology and satellite observations hav
 
 <h2>Dataset</h2>  
 
-Our analysis is based on the [Sunspot Index and Long-term Solar Observations Dataset (Yearly total sunspot number)](https://www.sidc.be/SILSO/datafiles) that provides comprehensive data on sunspot activity. This dataset, collected by the SOHO spacecraft, serves as a valuable resource for training and evaluating our machine learning models.  
+Our analysis is based on the [Sunspot Index and Long-term Solar Observations Dataset (Yearly total sunspot number)](https://www.sidc.be/SILSO/datafiles) that provides comprehensive data on sunspot activity.
 
 <br>
 
