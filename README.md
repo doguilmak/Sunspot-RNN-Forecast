@@ -21,11 +21,9 @@ In recent years, advancements in space technology and satellite observations hav
 
 <br>
 
-  
-
 <h2>Dataset</h2>  
 
-Our analysis is based on the [Sunspot Index and Long-term Solar Observations Dataset (Yearly total sunspot number)](https://www.sidc.be/SILSO/datafiles) that provides comprehensive data on sunspot activity.
+Our analysis is based on the [WDC-SILSO, Royal Observatory of Belgium, Brussels (Yearly total sunspot number)](https://www.sidc.be/SILSO/datafiles) that provides comprehensive data on sunspot activity. For additonal information, contact Laure Lefèvre (Email: silso.info@oma.be) Royal Observatory of Belgium Av. Circulaire, 3 - B-1180 Brussels, Belgium
 
 <br>
 
